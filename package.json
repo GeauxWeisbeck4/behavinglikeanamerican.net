@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/tylerMRoderick/fernfolio-11ty-template",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.1",
+    "@11ty/eleventy": "^0.12.0",
     "@11ty/eleventy-img": "^2.0.1",
     "@11ty/eleventy-navigation": "^0.3.3",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
