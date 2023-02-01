@@ -1,7 +1,7 @@
 {
-  "name": "fernfolio-11ty-template",
+  "name": "behavinglikeanamerican.net",
   "version": "1.0.0",
-  "description": "The super simple portfolio template built with Eleventy and Netlify CMS",
+  "description": "A research and marketing firm.",
   "scripts": {
     "start": "cross-env npm-run-all build:sass --parallel watch:*",
     "build": "cross-env npm-run-all build:sass build:scripts build:eleventy",
@@ -16,18 +16,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tylerMRoderick/fernfolio-11ty-template"
+    "url": "https://github.com/geauxweisbeck4/behavinglikeanamerican.net"
   },
   "author": {
-    "name": "Tyler M. Roderick",
-    "email": "troderick@protonmail.com",
-    "url": "https://www.tylerroderick.com/"
+    "name": "Andrew Weisbeck",
+    "email": "andrew.weisbeck@gmail.com",
+    "url": "https://geauxweisbeck4.dev/"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tylerMRoderick/fernfolio-11ty-template/issues"
+    "url": "https://github.com/geauxweisbeck4/behavinglikeanamerican.net/issues"
   },
-  "homepage": "https://github.com/tylerMRoderick/fernfolio-11ty-template",
+  "homepage": "https://github.com/geauxweisbeck4/behavinglikeanamerican.net/",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "@11ty/eleventy-img": "^2.0.1",

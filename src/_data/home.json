@@ -1,6 +1,6 @@
 {
-  "title": "Fernfolio",
+  "title": "Behaving Like an American",
   "image": "src/assets/img/fern-in-hand.jpeg",
-  "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "image_alt": "Behaving Like an American",
+  "body": "The Research and Marketing firm for American Small Businesses."
 }
