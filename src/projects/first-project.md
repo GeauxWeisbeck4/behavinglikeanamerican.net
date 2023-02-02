@@ -1,18 +1,20 @@
 ---
-title: Cat Translation API
-emoji: 😺
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
-date: 2019-01-01T00:00:00.000Z
-summary: API to translate cat speech to english
+title: Defi Ours Company Website 
+emoji: 🪙
+metaDescription: Created a company website for the Defi Ours Team Hackathon
+date: 2022-07-01T00:00:00.000Z
+summary: Created a company website for the Defi Ours Team using Astro, Tailwind CSS, and Vanilla JavaScript. It was a fairly bare bones design for the site to just have something functional for the hackathon so the team could have a main hub. Developed back end as well which featured logins and presentation platform.
 tags:
-  - golang
-  - graphQL
-  - aws
+  - javascript
+  - jamstack
+  - tailwindcss
+  - webdev
+  - astro
 ---
 
 ### Task
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Created a company website for the Defi Ours Team using Astro, Tailwind CSS, and Vanilla JavaScript. It was a fairly bare bones design for the site to just have something functional for the hackathon so the team could have a main hub. Developed back end as well which featured logins and presentation platform.
 
 ### Solution
 
