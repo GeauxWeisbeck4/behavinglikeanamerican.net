@@ -41,23 +41,21 @@ After receiving your return and inspecting the condition of your item, we will p
 
 EXCEPTIONS    
 
-The following items cannot be [returned] or [exchanged]: 
+The following items cannot be returned or refunded: 
  
-     ●     [Item]
-     ●     [Item]
-     ●     [Item]
+- Completed or Mostly Completed Websites
+- Underwear
+- Anything Stained or Worn
 
 For defective or damaged products, please contact us at the contact details below to arrange a refund or exchange. 
  
-Please Note
+Please Note:
   
-     ●     A $[Dollar Amount] restocking fee will be charged for all returns in excess of $[Dollar 
-Amount].          
-     ●     Sale items are FINAL SALE and cannot be returned.
-     ●     [Other]
+- A $20 restocking fee will be charged for all returns in excess of $100.          
+- Sale items are FINAL SALE and cannot be returned.
 
 QUESTIONS
 
 If you have any questions concerning our return policy, please contact us at:
 984-291-0276
-[Email Address]
+andrew@behavinglikeanamerican.net
