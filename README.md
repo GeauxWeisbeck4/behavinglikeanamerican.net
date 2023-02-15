@@ -1,6 +1,6 @@
 # Behaving Like An American
 
-Behaving Like An American is a research and marketing firm, created by me (Andrew Weisbeck) to complement his agency Tar Heel Dev Studio as well as my other businesses. The name comes from an old blog I used to write about Behavioral Economics. It now serves as my reserach and marketing firm that utilizes behavioral science, economics, and marketing research to develop solutions for end users of my software.
+Behaving Like An American is a research and marketing firm company in Chicago. I am building the website for a client and they will be using it mainly as a landing hub and eventually will integrate a backend for their company to work remotely with. .
 
 ## To Get Started
 
@@ -15,6 +15,10 @@ npm start
 
 You can edit!
 
-## Contribute to this Project
+## This Project is Open Source
 
-Submit an issue and I will get to it.
+The main project got the ok from the client to be created open source, so feel free to contribute! There's some private backend stuff we can't share on here, but the front end is sort of experimental anyways right now. Have a go at it and submit a pull request or an issue!
+
+## More Questions?
+
+Reach out to me or Gennarado at genlee402420@gmail.com - thank you!

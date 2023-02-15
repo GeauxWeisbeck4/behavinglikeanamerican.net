@@ -1,9 +1,9 @@
 ---
-title: Vue Date Picker
+title: Sandhills Publishing Project 
 emoji: 🗓
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
+metaDescription: The Sandhills Publishing Company hired us to do some research for their organization. Here is what we found.
 date: 2019-01-01T00:00:00.000Z
-summary: This is a Vue component I made
+summary: Another great project with the boys from Nebraska as we created a deep dive into the effectiveness of print marketing. You'll be surprised by the results! 
 tags:
   - javascript
   - vue

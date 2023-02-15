@@ -1,9 +1,9 @@
 ---
-title: Another NPM Package
+title: Super Bowl Commercial Statistics 
 emoji: 💾
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
+metaDescription: Research and statistics taken from every Super Bowl and aggregated for viewing and then a written case study. 
 date: 2019-01-01T00:00:00.000Z
-summary: This is an NPM package I made
+summary: We are still working on our results from Sunday's Super Bowl and then we will release our all time best commercials and economic impact statistics in our upcoming case study.
 tags:
   - javascript
   - node
