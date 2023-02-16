@@ -46,7 +46,7 @@
     "postcss": "^8.4.16",
     "postcss-cli": "^10.0.0",
     "postcss-scss": "^4.0.4",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.0",
     "sass": "^1.54.3",
     "turbolinks": "^5.2.0"
   }
